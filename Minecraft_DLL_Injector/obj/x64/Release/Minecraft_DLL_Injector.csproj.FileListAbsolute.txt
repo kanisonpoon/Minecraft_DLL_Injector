@@ -1,9 +1,0 @@
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\bin\x64\Release\Minecraft_DLL_Injector.exe.config
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\bin\x64\Release\Minecraft_DLL_Injector.exe
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\bin\x64\Release\Minecraft_DLL_Injector.pdb
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\obj\x64\Release\Minecraft_DLL_Injector.csprojAssemblyReference.cache
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\obj\x64\Release\Minecraft_DLL_Injector.Properties.Resources.resources
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\obj\x64\Release\Minecraft_DLL_Injector.csproj.GenerateResource.cache
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\obj\x64\Release\Minecraft_DLL_Injector.exe
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\obj\x64\Release\Minecraft_DLL_Injector.pdb
-C:\Users\EchoHackCmd\source\repos\Minecraft_DLL_Injector\Minecraft_DLL_Injector\obj\x64\Release\Minecraft_DLL_Injector.Form1.resources
